@@ -197,3 +197,4 @@ while True:
     print(f"Live reaction: {Fore.RESET}{face}")
     print(Fore.GREEN + "")
     print(f"Live yapping: {Fore.RESET}{yap}")
+    input("")
